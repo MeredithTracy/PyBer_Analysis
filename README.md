@@ -10,12 +10,12 @@ PyBer hired us to perform an analysis on their ride sharing data from 2019 in or
 ## Results
 After completing my analysis of the data provided by PyBer, I have been able to recognize some trends in city types in relation to fare and driver counts. 
 
-![Fig8](https://github.com/MeredithTracy/PyBer_Analysis/blob/main/Analysis/Fig8.png)/n
+![Fig8](https://github.com/MeredithTracy/PyBer_Analysis/blob/main/Analysis/Fig8.png)
 
 This chart shows the counts and averages for the ride share data provided by PyBer grouped by  city type.
 
 
-![Pyber_fare_summary](https://github.com/MeredithTracy/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)/n
+![Pyber_fare_summary](https://github.com/MeredithTracy/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
 This graph shows the total fare per week from Jan 2019 – April 2019 grouped by city type.
 
 
